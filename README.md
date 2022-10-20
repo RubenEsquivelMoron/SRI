@@ -1,5 +1,4 @@
 # SRI
-# Servicio de red e internet
 ## Trimestre 1
 Tema 0
 Ejercicios|Explicacion
