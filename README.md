@@ -1,6 +1,5 @@
 # SRI
 ## Trimestre 1
-Tema 0
 Ejercicios|Explicacion
 ---------------|---------------
 [Ejemplo simple web server](SRI_(Ignacio)/Trimestre_1/Ejercicio_inicial/capturas/1.png)|Instalacion de servidor local a traves de python
@@ -14,8 +13,7 @@ Ejercicios|Explicacion
 [Script ip y dominio](SRI_(Ignacio)/Trimestre_1/Ejercicio_inicial/Scripts_Apache/Script2.sh )|Script que añade un nombre de dominio e ip. COmprueba que el dominio no se repita
 [Script web](SRI_(Ignacio)/Trimestre_1/Ejercicio_inicial/Scripts_Apache/Script3.sh )|Script que crear una pagina web con titulo, encabezado y parrafo pedidos por el script al usuario
 
-### Proyecto 1er trimestre
-[Proyecto](https://github.com/RubenEsquivelMoron/ProyectoSRI/blob/a2571fec863fd216d52aef6a3ff6b610732b5d1b/README.md)
+### [Proyecto 1er trimestre](https://github.com/RubenEsquivelMoron/ProyectoSRI/blob/a2571fec863fd216d52aef6a3ff6b610732b5d1b/README.md)
 
 
 ## Trimestre 2
