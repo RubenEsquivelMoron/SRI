@@ -18,8 +18,7 @@ Ejercicios|Explicacion
 [Proyecto](https://github.com/RubenEsquivelMoron/ProyectoSRI/blob/a2571fec863fd216d52aef6a3ff6b610732b5d1b/README.md)
 
 
-
 ## Trimestre 2
-## Trimestre 3
+
 
 
