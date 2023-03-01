@@ -17,11 +17,3 @@ Ejercicios|Explicacion
 
 
 ## Trimestre 2
-
-### Ejercicios Docker
-
-- ![Ejercicio 2](Docker/ejercicio2)
-- ![Ejercicio 3](Docker/ejercicio3)
-- ![Ejercicio 4](Docker/ejercicio4)
-- ![Ejercicio 5](Docker/ejercicio5)
-
