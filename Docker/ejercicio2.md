@@ -1,4 +1,4 @@
-# Ejercicio 1
+# Ejercicio 2
 
 ## Primer articulo
 1. Ejecuta la imagen "hello-world"
